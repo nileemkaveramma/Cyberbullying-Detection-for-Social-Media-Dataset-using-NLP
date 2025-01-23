@@ -9,7 +9,9 @@ summarize data from social media and thus provide a solution for technology to e
 
 ● Dataset Loading and Exploration: Importing the dataset and performing exploratory data analysis (EDA) to understand the distribution and characteristics of the data. 
 
-● Data Cleaning: Removing noise such as URLs, mentions, hashtags, and stopwords from the text to ensure clean input for analysis. ● Feature Extraction: Employing techniques such as Bag-of-Words (BoW) or TF-IDF to transform the cleaned text into a structured format for processing.
+● Data Cleaning: Removing noise such as URLs, mentions, hashtags, and stopwords from the text to ensure clean input for analysis. 
+
+● Feature Extraction: Employing techniques such as Bag-of-Words (BoW) or TF-IDF to transform the cleaned text into a structured format for processing.
 
 ● Classification: Using machine learning models (e.g., Logistic Regression) to categorize text into cyberbullying-related categories. 
 
